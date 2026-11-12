@@ -21,3 +21,4 @@ p, li { color: var(--ink); }
 a { color: inherit; }
 hr { border: 0; border-top: 1px solid var(--line); margin: 40px 0 24px; }
 footer { font-size: 14px; color: var(--mute); margin-top: 48px; }
+.card.yt { border-left: 4px solid #ff0033; }
